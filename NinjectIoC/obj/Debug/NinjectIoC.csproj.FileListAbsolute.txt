@@ -1,0 +1,8 @@
+H:\Projects\Study\IoC\NinjectIoC\NinjectIoC\bin\Debug\NinjectIoC.exe.config
+H:\Projects\Study\IoC\NinjectIoC\NinjectIoC\bin\Debug\NinjectIoC.exe
+H:\Projects\Study\IoC\NinjectIoC\NinjectIoC\bin\Debug\NinjectIoC.pdb
+H:\Projects\Study\IoC\NinjectIoC\NinjectIoC\bin\Debug\Ninject.dll
+H:\Projects\Study\IoC\NinjectIoC\NinjectIoC\bin\Debug\Ninject.xml
+H:\Projects\Study\IoC\NinjectIoC\NinjectIoC\obj\Debug\NinjectIoC.csprojResolveAssemblyReference.cache
+H:\Projects\Study\IoC\NinjectIoC\NinjectIoC\obj\Debug\NinjectIoC.exe
+H:\Projects\Study\IoC\NinjectIoC\NinjectIoC\obj\Debug\NinjectIoC.pdb
